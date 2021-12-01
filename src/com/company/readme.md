@@ -29,4 +29,4 @@
 - 이름을 붙일 때는 일관성이 있어야 한다.
 
 다음과 같이 연습해보았다.
-[간단한 클래스분리]()
+[(링크)간단한 클래스분리](https://github.com/Minzino/CleanCode_Practice/tree/master/src/com/company/StarCraft.java)
